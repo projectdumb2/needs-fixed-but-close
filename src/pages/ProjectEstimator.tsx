@@ -117,3 +117,5 @@ function ProjectEstimator() {
     </div>
   );
 }
+
+export default ProjectEstimator;
